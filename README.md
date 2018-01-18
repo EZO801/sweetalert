@@ -17,12 +17,16 @@
   <a href="https://github.com/t4t5/sweetalert/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/t4t5/sweetalert.svg" />
   </a>
+<a href="https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fsweetalert?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fsweetalert.svg?type=shield"/></a>
 </p>
 
 <p align="center">
   <img alt="A success modal" src="https://github.com/t4t5/sweetalert/blob/e3c2085473a0eb5a6b022e43eb22e746380bb955/assets/swal.gif">
 </p>
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fsweetalert.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fsweetalert?ref=badge_large)
 
 ## Installation
 
